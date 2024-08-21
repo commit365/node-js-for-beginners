@@ -117,8 +117,8 @@ In this course, you will learn the fundamentals of back-end development, includi
 To get started with this course, clone this repository and follow the lessons in order. Each lesson will include practical examples and exercises to reinforce your learning.
 
 ```bash
-git clone https://github.com/commit365/nodejs-for-beginners.git
-cd nodejs-for-beginners
+git clone https://github.com/commit365/node-js-for-beginners.git
+cd node-js-for-beginners
 ```
 
 ## Contributing
